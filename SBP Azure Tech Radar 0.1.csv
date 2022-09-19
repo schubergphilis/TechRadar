@@ -1,5 +1,6 @@
 ﻿name;ring;quadrant;isNew;description
 ARM Templates;Hold;DevOps Tools;TRUE;
+Terraform ;Trial;DevOps Tools;;
 Azure Bicep;Adopt;DevOps Tools;TRUE;
 Pullumi for IaC;Assess;DevOps Tools;TRUE;
 Azure Build Pipelines;Hold;DevOps Tools;TRUE;
@@ -14,6 +15,7 @@ Azure Private Endpoints;Adopt;Cloud Services;TRUE;
 Azure Service Endpoints;Hold;Cloud Services;TRUE;
 Azure Hub-Spoke VNETs;Hold;Cloud Services;TRUE;
 Azure vWAN;Adopt;Cloud Services;TRUE;
+Azure NVAs;Hold;Cloud Services;TRUE;
 Azure Firewall;Adopt;Cloud Services;TRUE;
 PowerShell AZ modules;Adopt;DevOps Tools;TRUE;
 AZ CLI;Adopt;DevOps Tools;TRUE;
@@ -25,10 +27,11 @@ Azure Logic Apps;Trial;Cloud Services;TRUE;
 Azure Data Factory;Adopt;Cloud Services;TRUE;
 Azure Synapse Analytics;Adopt;Cloud Services;TRUE;
 Azure Purview;Trial;Cloud Services;TRUE;
-Azure Monitor;Hold;Operational Stack;TRUE;
+Azure Monitor;Adopt;Operational Stack;TRUE;
 Prometheus + Grafana;Trial;Operational Stack;TRUE;
 Datadog;Assess;Operational Stack;TRUE;
 ELK Stack;Assess;Operational Stack;TRUE;
 OpsGenie;Adopt;Operational Stack;TRUE;
 Azure Backup;Adopt;Operational Stack;TRUE;
 SBP DMS for backup;Adopt;Operational Stack;TRUE;
+Azure Stack HCI;Trial;Cloud Services;TRUE;
