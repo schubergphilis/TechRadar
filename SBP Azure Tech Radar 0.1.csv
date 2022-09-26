@@ -37,3 +37,6 @@ SBP DMS for backup;Operational Stack;Adopt;TRUE;
 Azure Stack HCI;Cloud Services;Trial;TRUE;
 Cloud Landing Zones;Methodologies;Adopt;TRUE;
 Infrastructure as Code;Methodologies;Adopt;TRUE;
+Enterprise Scale Landing Zone;Methodologies;Trial;TRUE;
+Security Energy Label;Methodologies;Trial;TRUE;
+GitOps Deployments;Methodologies;Assess;TRUE;
