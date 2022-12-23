@@ -1,4 +1,4 @@
-Name,quadrant,ring,isNew,description
+name,quadrant,ring,isNew,description
 Jira Cloud,Advance Detection and Response,Adopt,TRUE,Create/Track issues; Manage the backlog of team and ITSM 
 McAfee MVISION ePro,Advance Detection and Response,Adopt,TRUE,Eindpoints manager for policies; scannings; etc. (updates and patches)
 Qualys,Advance Detection and Response,Trial,TRUE,Vulnerability tracking
