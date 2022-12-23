@@ -1,28 +1,28 @@
-Name;quadrant;ring;isNew;description
-Jira Cloud;Advance Detection and Response;Adopt;TRUE;Create/Track issues, Manage the backlog of team and ITSM 
-McAfee MVISION ePro;Advance Detection and Response;Adopt;TRUE;Eindpoints manager for policies, scannings, etc. (updates and patches)
-Qualys;Advance Detection and Response;Trial;TRUE;Vulnerability tracking
-Secunia;Advance Detection and Response;Adopt;TRUE;Software vulnerability management tool
-Sentry;Advance Detection and Response;Adopt;TRUE;Error monitoring that helps teams discover, triage and prioratize errors in real-time 
-Splunk;Advance Detection and Response;Adopt;TRUE;Log analysis tool
-VULDB;Advance Detection and Response;Adopt;TRUE;Vulnerability tracking
-Datadog Log Metric and Monitor;Detection and Response;Adopt;TRUE;Collect logs, metrics and monitoring
-Datadog Cloud SIEM;Detection and Response;Adopt;TRUE;Security information and event management 
-OpsGenie;Detection and Response;Adopt;TRUE;Cloud based platform to manage alerts and notify the right people 
-Trivy;Detection and Response;Adopt;TRUE;Vulnerability scanning tool for containers
-Cisco Asa;Endpoint Security;Adopt;TRUE;Network firewall appliance
-ClamAv;Endpoint Security;Adopt;TRUE;Antivirus for email and file checking 
-McAfee Endpoint Security (Trellix);Endpoint Security;Adopt;TRUE;Antimalware 
-Microsoft Defender;Endpoint Security;Adopt;TRUE;Antivirus fits better into the ecosystem (office, cloud and endpoint)
-SentinelOne;Endpoint Security;Hold;TRUE;Antivirus fits better
-Umbrella;Endpoint Security;Adopt;TRUE;Provides  protection against malicious services on the public internet
-Intune;Endpoint Security;Adopt;TRUE;Ensures unpacthed devices does not have access, Intune is the same as Jamf but for Windows devices 
-Jamf Cloud;Endpoint Security;Adopt;TRUE;Secure sensitive data, enforce and lock access codes and remotely wipe MacOs and iOS devices  and enforce security and compliance policies 
-Yubikey;Endpoint Security;Adopt;TRUE;Hardware authentication solution 
-Genetec;Identify and Access Management;Adopt;TRUE;All physical access management. For example badges, privileges, datacenter access, cardreader, etc.
-Keycloak;Identify and Access Management;Adopt;TRUE;Physical access management system (card readers, privileges, sensors, surveillance, etc.)
-Lenel;Identify and Access Management;Hold;TRUE;Physical access management system (card readers, privileges, sensors, surveillance, etc.)
-Okta;Identify and Access Management;Adopt;TRUE;2FA (IAM), automatic lock-out
-Openam;Identify and Access Management;Adopt;TRUE;2FA
-Validata;Identify and Access Management;Adopt;TRUE;Provide screening services to validate applicants details and background
-Workrate;Identify and Access Management;Adopt;TRUE;Application used to manage registration of visitors and partners.
+Name,quadrant,ring,isNew,description
+Jira Cloud,Advance Detection and Response,Adopt,TRUE,Create/Track issues, Manage the backlog of team and ITSM 
+McAfee MVISION ePro,Advance Detection and Response,Adopt,TRUE,Eindpoints manager for policies, scannings, etc. (updates and patches)
+Qualys,Advance Detection and Response,Trial,TRUE,Vulnerability tracking
+Secunia,Advance Detection and Response,Adopt,TRUE,Software vulnerability management tool
+Sentry,Advance Detection and Response,Adopt,TRUE,Error monitoring that helps teams discover, triage and prioratize errors in real-time 
+Splunk,Advance Detection and Response,Adopt,TRUE,Log analysis tool
+VULDB,Advance Detection and Response,Adopt,TRUE,Vulnerability tracking
+Datadog Log Metric and Monitor,Detection and Response,Adopt,TRUE,Collect logs, metrics and monitoring
+Datadog Cloud SIEM,Detection and Response,Adopt,TRUE,Security information and event management 
+OpsGenie,Detection and Response,Adopt,TRUE,Cloud based platform to manage alerts and notify the right people 
+Trivy,Detection and Response,Adopt,TRUE,Vulnerability scanning tool for containers
+Cisco Asa,Endpoint Security,Adopt,TRUE,Network firewall appliance
+ClamAv,Endpoint Security,Adopt,TRUE,Antivirus for email and file checking 
+McAfee Endpoint Security (Trellix),Endpoint Security,Adopt,TRUE,Antimalware 
+Microsoft Defender,Endpoint Security,Adopt,TRUE,Antivirus fits better into the ecosystem (office, cloud and endpoint)
+SentinelOne,Endpoint Security,Hold,TRUE,Antivirus fits better
+Umbrella,Endpoint Security,Adopt,TRUE,Provides  protection against malicious services on the public internet
+Intune,Endpoint Security,Adopt,TRUE,Ensures unpacthed devices does not have access, Intune is the same as Jamf but for Windows devices 
+Jamf Cloud,Endpoint Security,Adopt,TRUE,Secure sensitive data, enforce and lock access codes and remotely wipe MacOs and iOS devices  and enforce security and compliance policies 
+Yubikey,Endpoint Security,Adopt,TRUE,Hardware authentication solution 
+Genetec,Identify and Access Management,Adopt,TRUE,All physical access management. For example badges, privileges, datacenter access, cardreader, etc.
+Keycloak,Identify and Access Management,Adopt,TRUE,Physical access management system (card readers, privileges, sensors, surveillance, etc.)
+Lenel,Identify and Access Management,Hold,TRUE,Physical access management system (card readers, privileges, sensors, surveillance, etc.)
+Okta,Identify and Access Management,Adopt,TRUE,2FA (IAM), automatic lock-out
+Openam,Identify and Access Management,Adopt,TRUE,2FA
+Validata,Identify and Access Management,Adopt,TRUE,Provide screening services to validate applicants details and background
+Workrate,Identify and Access Management,Adopt,TRUE,Application used to manage registration of visitors and partners.
