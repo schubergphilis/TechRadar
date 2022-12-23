@@ -1,0 +1,30 @@
+name;quadrant;ring;isNew;description
+AWS Cloudtrail;Cloud Security;Adopt;TRUE;API logging 
+AWS Cloud Watch;Cloud Security;Adopt;TRUE;Log and metric collection
+AWS Guardduty;Cloud Security;Adopt;TRUE;Simillar to SIEM
+AWS IAM;Cloud Security;Adopt;TRUE;To manage access to AWS services and resources securely. This service is used to define roles and service accounts.
+AWS Inspector;Cloud Security;Adopt;TRUE;Assesses applications for exposure, vulnerabilities, and deviations from best practices.
+AWS Network Firewall;Cloud Security;Adopt;TRUE;Firewall with Fortinet ruleset
+AWS Schield;Cloud Security;Adopt;TRUE;Provides DDoS protection and attack mitigations
+AWS Secrete Manager;Cloud Security;Adopt;TRUE;Enables you to easily rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle
+Orca;Cloud Security;Adopt;TRUE;Continuous vulnerability scanning of EC2 instance volumes, container images and compliancy scanning and reports per several standards
+Security Center (Azure);Cloud Security;Adopt;TRUE;Compliance and cloud security 
+Security Command Center;Cloud Security;Adopt;TRUE;Compliance and cloud security 
+Security Hub (AWS);Cloud Security;Adopt;TRUE;Compliance and cloud security 
+Akamai Kona Site Defender;Application Security;Adopt;TRUE;Defend against a wide range of multi-vector attacks. Intelligent protection, end to end.
+Chef Inspec;Application Security;Adopt;TRUE;Compliance checking
+Cliar;Application Security;Adopt;TRUE;Open-source Common Vulnerabilities and Exposures (CVEs) database 
+Opa Gatekeeper;Application Security;Adopt;TRUE;A customisable admission webhook for Kubernetes that enforces policies executed by the Open Policy Agent (OPA), a policy engine for Cloud Native environments hosted by CNCF.
+F5;Application Security;Adopt;TRUE;Network firewall and Web Application appliance 
+SonarCloud;Application Security;Adopt;TRUE;Static code analysis tool that automatically reviews the quality and security of code on the static (text) level
+Clickstudio Passwordstate;Data Security;Adopt;TRUE;Password manager 
+Docusign;Data Security;Adopt;TRUE;Secure e-signing tool for contract and non-disclousre agreements
+Hashicorp Vault;Data Security;Adopt;TRUE;Secret and sensitive data manager
+Intune;Data Security;Adopt;TRUE;Ensures unpacthed devices does not have access, Intune is the same as Jamf but for Windows devices 
+Jamf Cloud;Data Security;Adopt;TRUE;Secure sensitive data, enforce and lock access codes and remotely wipe MacOs and iOS devices  and enforce security and compliance policies 
+Lastpass;Data Security;Adopt;TRUE;Password manager + alert you for weak passwords
+Akamai Edge DNS;Network Security;Adopt;TRUE;DNS service that delivers secure high performance and scalable edge for DNS 
+Akamai Prolexic;Network Security;Adopt;TRUE;Cloud based WAF and DDoS 
+Cilium Enterprise;Network Security;Adopt;TRUE;Open source software for transparently securing the network connectivity between application services deployed using Linux container management platforms like Docker and Kubernetes
+Cisco AnyConnect;Network Security;Adopt;TRUE;(VPN) provide access to internal assets 
+Outpost 24;Network Security;Adopt;TRUE;Help users identify and mitigate weaknesses in the operating system, network and web apps. 
